@@ -65,7 +65,7 @@ console.log(v3);
 <div class='container'>
 <p>
 The people from all over Australia were asked these questions. The data is taken from the National Drug Strategy Household Survey conducted in Australia. About 90,000 people have given the survey and is data rich. The National Drug Strategy Household Survey (NDSHS) is a national survey which provides data on alcohol, tobacco and other drug use in Australia. The survey provides estimates of licit and illicit drug use. It measures the community's attitudes to drug use, and awareness of drug-related policies. It also measures the community support for several drug-related policies. The survey was taken on 7th July 2014.
-</p>
+</p><br /><br /><br />
 <p>
 These graphs provide a great visualizations for which drug Austrlians think is the greatest problem to the society, which is directly or indirectly causing deaths in Australia, which drug is the most serious concern to the society. When we hover over each bar, we will be able to see how many people have voted for that instance. There are a few other drugs which are almost irrelevant in terms of number of responses. In the next iteration, we will be working on which drug, in reality, is a problem to the society. Hence, we would be able to understand the myth in the minds of the people versus the reality.
 </p>
